@@ -1,0 +1,7 @@
+{
+  "name": "Inbuilt Health Club",
+  "description": "Premium unisex gym and health club featuring modern strength training facilities, specialized cardio floor, and elite personal training. Build Your Strength. Transform Your Life.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+

@@ -1,0 +1,215 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600" width="100%" height="100%">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@1,900&amp;display=swap');
+      .logo-inbuilt {
+        font-family: 'Montserrat', 'Arial Black', sans-serif;
+        font-weight: 900;
+        font-style: italic;
+        fill: #FFFFFF;
+        font-size: 78px;
+        letter-spacing: 2px;
+      }
+      .logo-gym {
+        font-family: 'Montserrat', 'Arial Black', sans-serif;
+        font-weight: 900;
+        font-style: italic;
+        fill: #00E659;
+        font-size: 58px;
+        letter-spacing: 2px;
+      }
+    </style>
+  </defs>
+
+  <!-- Solid Obsidian Black Background -->
+  <rect width="600" height="600" fill="#000000" />
+
+  <!-- ================= SPARTAN WARRIOR & BODYBUILDER ================= -->
+  <!-- Green Outer Muscle Glow / Contours -->
+  <!-- Outer Bodybuilder Silhouette Outline -->
+  <path
+    d="M 300 40
+       C 335 40, 360 85, 360 135
+       C 360 152, 355 170, 348 185
+       C 390 180, 445 205, 470 245
+       C 485 270, 480 305, 465 330
+       C 450 355, 420 370, 395 365
+       C 410 395, 415 440, 390 475
+       C 360 465, 335 440, 310 435
+       C 305 435, 295 435, 290 435
+       C 265 440, 240 465, 210 475
+       C 185 440, 190 395, 205 365
+       C 180 370, 150 355, 135 330
+       C 120 305, 115 270, 130 245
+       C 155 205, 210 180, 252 185
+       C 245 170, 240 152, 240 135
+       C 240 85, 265 40, 300 40 Z"
+    fill="#00E659"
+  />
+
+  <!-- Inner Black Silhouette Cutouts defining Muscular Traps, Delts, and Pecs -->
+  <!-- Left Shoulder / Arm Muscle Mass -->
+  <path
+    d="M 235 200
+       C 195 205, 155 228, 142 260
+       C 132 282, 138 310, 150 325
+       C 162 338, 185 348, 205 338
+       C 190 310, 195 270, 215 240
+       C 225 225, 230 215, 235 200 Z"
+    fill="#000000"
+  />
+  
+  <!-- Right Shoulder / Arm Muscle Mass -->
+  <path
+    d="M 365 200
+       C 405 205, 445 228, 458 260
+       C 468 282, 462 310, 450 325
+       C 438 338, 415 348, 395 338
+       C 410 310, 405 270, 385 240
+       C 375 225, 370 215, 365 200 Z"
+    fill="#000000"
+  />
+
+  <!-- Trapezius and Massive Chest / Pecs Structure -->
+  <path
+    d="M 265 195
+       C 260 220, 245 235, 225 250
+       C 215 258, 210 270, 215 285
+       C 225 315, 260 325, 300 325
+       C 340 325, 375 315, 385 285
+       C 390 270, 385 258, 375 250
+       C 355 235, 340 220, 335 195
+       C 320 205, 310 210, 300 210
+       C 290 210, 280 205, 265 195 Z"
+    fill="#000000"
+  />
+
+  <!-- Pec Separation & Core Striation (Green Accent Lines) -->
+  <path
+    d="M 235 275
+       C 265 295, 300 295, 300 295
+       C 300 295, 335 295, 365 275
+       C 345 288, 315 290, 300 290
+       C 285 290, 255 288, 235 275 Z"
+    fill="#00E659"
+  />
+
+  <!-- Abdominal / Chest Center Cleave Notch -->
+  <path
+    d="M 297 255
+       L 303 255
+       L 302 288
+       L 298 288 Z"
+    fill="#00E659"
+  />
+
+  <!-- ================= SPARTAN HELMET ================= -->
+  <!-- Helmet Base (Green) -->
+  <path
+    d="M 300 45
+       C 332 45, 355 85, 355 130
+       C 355 160, 345 185, 340 202
+       L 330 200
+       C 334 185, 340 162, 338 138
+       C 335 110, 320 75, 300 75
+       C 280 75, 265 110, 262 138
+       C 260 162, 266 185, 270 200
+       L 260 202
+       C 255 185, 245 160, 245 130
+       C 245 85, 268 45, 300 45 Z"
+    fill="#00E659"
+  />
+
+  <!-- Helmet Center Crest Ridge Fin -->
+  <path
+    d="M 300 42
+       C 310 42, 318 68, 318 105
+       C 318 142, 310 175, 300 178
+       C 290 175, 282 142, 282 105
+       C 282 68, 290 42, 300 42 Z"
+    fill="#00E659"
+  />
+  <path
+    d="M 297 50
+       L 303 50
+       L 303 165
+       L 297 165 Z"
+    fill="#000000"
+    opacity="0.4"
+  />
+
+  <!-- Helmet Black Spartan Visor / Aggressive T-Eye Openings -->
+  <!-- Left Eye Slit -->
+  <polygon points="268,135 293,165 292,130" fill="#000000" />
+  <!-- Right Eye Slit -->
+  <polygon points="332,135 307,165 308,130" fill="#000000" />
+  <!-- Center Vertical Nose/Face Guard Divider -->
+  <polygon points="296,120 304,120 303,195 297,195" fill="#000000" />
+
+  <!-- Helmet Cheek Armor Left -->
+  <path
+    d="M 260 135
+       C 255 160, 255 180, 262 205
+       C 272 190, 275 170, 272 145 Z"
+    fill="#00E659"
+  />
+
+  <!-- Helmet Cheek Armor Right -->
+  <path
+    d="M 340 135
+       C 345 160, 345 180, 338 205
+       C 328 190, 325 170, 328 145 Z"
+    fill="#00E659"
+  />
+
+  <!-- ================= EMBLEM CIRCLE ================= -->
+  <!-- Top Solid Green Semicircle / Dome -->
+  <path
+    d="M 172 320
+       C 172 250, 228 226, 300 226
+       C 372 226, 428 250, 428 320
+       Z"
+    fill="#00E659"
+  />
+
+  <!-- Black Horizontal Divider Band for "INBUILT" -->
+  <rect x="70" y="315" width="460" height="96" fill="#000000" />
+
+  <!-- Lower Green Crescent Ring Border -->
+  <path
+    d="M 140 380
+       C 155 470, 220 535, 300 535
+       C 380 535, 445 470, 460 380
+       L 435 380
+       C 422 455, 368 510, 300 510
+       C 232 510, 178 455, 165 380
+       Z"
+    fill="#00E659"
+  />
+
+  <!-- Inner Lower Semicircle Black Core for "GYM" -->
+  <path
+    d="M 166 385
+       C 180 455, 234 505, 300 505
+       C 366 505, 420 455, 434 385
+       Z"
+    fill="#000000"
+  />
+
+  <!-- ================= TYPOGRAPHY ================= -->
+  <!-- "INBUILT" in Heavy Bold Italic White -->
+  <text
+    x="300"
+    y="392"
+    text-anchor="middle"
+    class="logo-inbuilt"
+  >INBUILT</text>
+
+  <!-- "GYM" in Heavy Bold Italic Electric Green -->
+  <text
+    x="300"
+    y="468"
+    text-anchor="middle"
+    class="logo-gym"
+  >GYM</text>
+</svg>
